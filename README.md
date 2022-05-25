@@ -24,4 +24,4 @@
      - How the the rolling 30 day average of  stock close price varies with dates?
  
    ### Python's Libraries Used
-    * Pandas, NumPy, Matplotlib, and Seaborn
+   * Pandas, NumPy, Matplotlib, and Seaborn
