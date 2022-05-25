@@ -23,5 +23,5 @@
      - What is the correlation between stock close price of banks?
      - How the the rolling 30 day average of  stock close price varies with dates?
  
-    ### Python's libraries used for these project
+  ## Python's Libraries Used
     * Pandas, NumPy, Matplotlib, and Seaborn
